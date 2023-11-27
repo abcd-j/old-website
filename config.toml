@@ -1,0 +1,38 @@
+baseURL = 'https://abcd-j.de'
+languageCode = 'en-us'
+title = 'ABCD-J'
+theme = "PaperMod"
+
+# see https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/#sample-configyml
+
+[menu]
+  [[menu.main]]
+    name = "Data"
+    url = "https://data.abcd-j.de/"
+    weight = 2
+  [[menu.main]]
+    name = "DataLad"
+    url = "https://www.datalad.org/"
+    weight = 3
+  [[menu.main]]
+    name = "JTRack"
+    url = "https://jtrack.readthedocs.io/en/latest/"
+    weight = 4
+
+[params]
+  [params.profileMode]
+    enabled = true
+    title = "Accessing Behavior for Clinical Data and Joint usage"
+    subtitle = ""
+    imageUrl = "pics/abcdj_logo.svg"
+    imageTitle = "abcdj_logo"
+    imageWidth = 800
+  [[params.profileMode.buttons]]
+    name = "💡 About"
+    url = "/about"
+
+# repeat as many times as needed
+# icon names -> grep icon_name themes/PaperMod/layouts/partials/svg.html
+# [[params.socialIcons]]
+#   name = "github"
+#   url = "https://github.com/abcd-j"
