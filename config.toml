@@ -1,4 +1,4 @@
-baseURL = 'https://abcd-j.de'
+baseURL = 'https://abcd-j.github.io/website'
 languageCode = 'en-us'
 title = 'ABCD-J'
 theme = "PaperMod"
