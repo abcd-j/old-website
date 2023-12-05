@@ -20,19 +20,32 @@ theme = "PaperMod"
     weight = 4
 
 [params]
-  [params.profileMode]
+  defaultTheme = "light"
+  disableThemeToggle = true
+  [params.abcdjMode]
     enabled = true
     title = "Accessing Behavior for Clinical Data and Joint usage"
     subtitle = ""
     imageUrl = "pics/abcdj_logo.svg"
     imageTitle = "abcdj_logo"
-    imageWidth = 800
-  [[params.profileMode.buttons]]
-    name = "💡 About"
-    url = "/about"
+    imageHeight = 250
+    imageWidth = 1200
+
 
 # repeat as many times as needed
 # icon names -> grep icon_name themes/PaperMod/layouts/partials/svg.html
 # [[params.socialIcons]]
 #   name = "github"
 #   url = "https://github.com/abcd-j"
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "ABCD-J"
+    languageName = "English"
+    weight = 1
+  [languages.de]
+    title = "ABCD-J"
+    languageName = "German"
+    weight = 2
