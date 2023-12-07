@@ -10,14 +10,6 @@ theme = "PaperMod"
     name = "Data"
     url = "https://data.abcd-j.de/"
     weight = 2
-  [[menu.main]]
-    name = "DataLad"
-    url = "https://www.datalad.org/"
-    weight = 3
-  [[menu.main]]
-    name = "JTRack"
-    url = "https://jtrack.readthedocs.io/en/latest/"
-    weight = 4
 
 [params]
   defaultTheme = "light"
@@ -38,7 +30,8 @@ theme = "PaperMod"
 #   name = "github"
 #   url = "https://github.com/abcd-j"
 
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.en]

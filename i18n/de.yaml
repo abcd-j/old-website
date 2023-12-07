@@ -34,3 +34,31 @@
 
 - id: abcdj_project
   translation: "Das ABCD-J Projekt"
+
+- id: about_abcdj
+  translation: "[Pending translation] The ABCD-J research community project is a collaboration between five research
+            institutions in the German state of North Rhine-Westphalia: University Clinic
+            RWTH Aachen, University Clinic Bonn, University Clinic Köln, University Clinic
+            Düsseldorf and Research Centre Jülich. The overarching goal of ABCD-J is to
+            elevate existing technical solutions for research practice adoption. From the
+            social perspective, the ABCD-J project aims to promote and facilitate collaboration
+            between multiple research centres, while from the technical perspective the project
+            will accelerate research through homogenization of workflows and processes, with
+            particular emphasis on digital biomarker development."
+
+- id: about_datalad
+  translation: "[Pending translation] DataLad is a free and open source distributed data management system that keeps track of your data, creates
+            structure, ensures reproducibility, supports collaboration, and integrates with widely used data infrastructure."
+
+- id: about_datacatalog
+  translation: "[Pending translation] DataLad Catalog is a free and open source command line tool with a Python API that
+            allows you to turn structured metadata into a user-friendly, browser-based data catalog."
+
+- id: about_jtrack
+  translation: "Die JTrack-Plattform besteht aus den beiden JTrack-Anwendungen EMA und Social sowie einer Serverstruktur, 
+            um eine zentrale Datensammlung zu ermöglichen. Die Plattform wurde entwickelt, um spezifische digitale 
+            Phänotypisierungsinformationen über die Smartphone-Nutzung, Sensordaten und das tägliche Leben der Teilnehmer 
+            zu sammeln. Die JTrack-Plattform wurde als Open-Source-Kollaborationswerkzeug veröffentlicht, um klinischen 
+            und verhaltenswissenschaftlichen Forschern zu ermöglichen, ihre eigenen digitalen Phänotypisierungsdaten von 
+            spezifischen Studienpopulationen zu sammeln. Im Rahmen des ABCD-J wird JTrack in klinische Studien bei allen 
+            Partnern integriert, um eine harmonisierte und standardisierte Bewertung verschiedener klinischer Kohorten ermöglicht."

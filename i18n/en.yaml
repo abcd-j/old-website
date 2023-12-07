@@ -34,3 +34,30 @@
 
 - id: abcdj_project
   translation: "The ABCD-J Project"
+
+- id: about_abcdj
+  translation: "The ABCD-J research community project is a collaboration between five research
+            institutions in the German state of North Rhine-Westphalia: University Clinic
+            RWTH Aachen, University Clinic Bonn, University Clinic Köln, University Clinic
+            Düsseldorf and Research Centre Jülich. The overarching goal of ABCD-J is to
+            elevate existing technical solutions for research practice adoption. From the
+            social perspective, the ABCD-J project aims to promote and facilitate collaboration
+            between multiple research centres, while from the technical perspective the project
+            will accelerate research through homogenization of workflows and processes, with
+            particular emphasis on digital biomarker development."
+
+- id: about_datalad
+  translation: "DataLad is a free and open source distributed data management system that keeps track of data, creates
+            structure, ensures reproducibility, supports collaboration, and integrates with widely used data infrastructure."
+
+- id: about_datacatalog
+  translation: "The data catalog showcases a wide variety of datasets collected and shared
+            by partner institutions in the ABCD-J community."
+
+- id: about_jtrack
+  translation: "The JTrack platform consists of the two JTrack applications EMA and social and a server structure to enable 
+            central data collection. The platform was developed to gather study specific digital phenotyping information 
+            about smartphone usage, sensor data and participants' daily lives. The JTrack platform was released as an open 
+            source collaboration tool to enable clinical and behavioral researchers to collect their own digital phenotyping 
+            data from specific study populations. In the framework of the ABCD-J, JTrack will be integrated into clinical 
+            studies across all partners allowing for a harmonized and standardized evaluation of different clinical cohorts."

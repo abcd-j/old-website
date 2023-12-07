@@ -53,26 +53,133 @@
             {{- end }}
         </div>
         {{- end }}
+        <a href="#section1" class="profile-scroll"><i class="fas fa-chevron-down"></i></a>
     </div>
     {{- end}}
-</div>
-<div class="main-content">
-    <a href="#section1" class="profile-scroll"><i class="fas fa-chevron-down"></i></a>
-    <div id="section1" class="content-item">
-        <h1>{{ i18n "abcdj_project" }}</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus placerat velit ut fermentum placerat. Nulla facilisi. Etiam vel felis risus. Nulla velit risus, imperdiet id interdum a, tincidunt vel lorem. Donec a ante commodo, tincidunt dolor ac, ullamcorper ex. Duis sagittis odio eu finibus finibus. Fusce iaculis efficitur aliquam. In tempor nibh ac ipsum pretium, et mattis lorem dapibus. Nam sollicitudin sed metus malesuada congue.
-        </p>
-    </div>
-    <a href="#section2" class="profile-scroll"><i class="fas fa-chevron-down"></i></a>
-    <div id="section2" class="content-item">
-        <h1>DataLad</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus placerat velit ut fermentum placerat. Nulla facilisi. Etiam vel felis risus. Nulla velit risus, imperdiet id interdum a, tincidunt vel lorem. Donec a ante commodo, tincidunt dolor ac, ullamcorper ex. Duis sagittis odio eu finibus finibus. Fusce iaculis efficitur aliquam. In tempor nibh ac ipsum pretium, et mattis lorem dapibus. Nam sollicitudin sed metus malesuada congue.
-        </p>
-    </div>
-    <a href="#section3" class="profile-scroll"><i class="fas fa-chevron-down"></i></a>
-    <div id="section3" class="content-item">
-        <h1>JTrack</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus placerat velit ut fermentum placerat. Nulla facilisi. Etiam vel felis risus. Nulla velit risus, imperdiet id interdum a, tincidunt vel lorem. Donec a ante commodo, tincidunt dolor ac, ullamcorper ex. Duis sagittis odio eu finibus finibus. Fusce iaculis efficitur aliquam. In tempor nibh ac ipsum pretium, et mattis lorem dapibus. Nam sollicitudin sed metus malesuada congue.
-        </p>
+    <div class="main-content">
+        <div id="section1" class="content-intro">       
+            <h1>{{i18n "abcdj_project"}}</h1>
+            <p>{{i18n "about_abcdj"}}</p>
+            <img class="partner-logos" src="../pics/partner_logos_wide.svg" alt="">
+            <a href="#section2" class="profile-scroll push"><i class="fas fa-chevron-down"></i></a>
+        </div>
+    
+        <div id="section2" class="content-item">
+            <div class="content-info">
+                <div class="content-text">
+                    <h1>The Data Catalog</h1>
+                    <p>{{i18n "about_datacatalog"}}</p>
+                    <div class="content-buttons">
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-house" href="https://data.abcd-j.de"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://data.abcd-j.de">Catalog</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-book" href="https://github.com/abcd-j"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://github.com/abcd-j">Docs</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fab fa-github" href="https://github.com/abcd-j/data-catalog"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://github.com/abcd-j/data-catalog">GitHub</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-img">
+                    <img src="../pics/data_catalog.svg" alt="">
+                </div>
+            </div>
+            <a href="#section3" class="profile-scroll push"><i class="fas fa-chevron-down"></i></a>
+        </div>
+        
+        <div id="section3" class="content-item">
+            <div class="content-info">
+                <div class="content-text">
+                    <h1>DataLad</h1>
+                    <p>{{i18n "about_datalad"}}</p>
+                    <div class="content-buttons">
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-house" href="https://datalad.org"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://datalad.org">Website</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-book" href="https://handbook.datalad.org/"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://handbook.datalad.org/">Handbook</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-users" href="https://matrix.to/#/%23datalad:matrix.org"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://matrix.to/#/%23datalad:matrix.org">Support</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fab fa-github" href="https://github.com/datalad"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://github.com/datalad">GitHub</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-img">
+                    <img src="../pics/datalad_logo.svg" alt="">
+                </div>
+            </div>
+            <a href="#section4" class="profile-scroll push"><i class="fas fa-chevron-down"></i></a>
+        </div>
+        
+        
+        <div id="section4" class="content-item">
+            <div class="content-info last">
+                <div class="content-text">
+                    <h1>JTrack</h1>
+                    <p>{{i18n "about_jtrack"}}</p>
+                    <div class="content-buttons">
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fas fa-book" href="https://jtrack.readthedocs.io/en/latest/"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://jtrack.readthedocs.io/en/latest/">Docs</a></h3>
+                            </div>
+                        </div>
+                        <div class="content-btn">
+                            <div class="btn-icon">
+                              <a class="fab fa-github" href="https://github.com/Biomarker-Development-at-INM7"></a>
+                            </div>
+                            <div class="btn-info">
+                              <h3><a href="https://github.com/Biomarker-Development-at-INM7">GitHub</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-img">
+                    <img src="../pics/jtrack_logo.svg" alt="">
+                </div>
+            </div>
+            <div class="push"></div>
+        </div>
     </div>
 </div>
