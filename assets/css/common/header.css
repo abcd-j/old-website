@@ -95,6 +95,10 @@ body:not(.dark) #sun {
     font-weight: 500;
 }
 
+.lang-selected {
+    text-decoration: underline;
+}
+
 .logo-switches {
     flex-wrap: inherit;
 }

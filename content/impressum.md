@@ -8,7 +8,6 @@ title: "Legal notice"
 Wilhelm-Johnen-Straße
 52428 Jülich
 
-
 Postal address:
 52425 Jülich
 
@@ -47,24 +46,22 @@ Internet: [http://www.fz-juelich.de](http://www.fz-juelich.de)
 
 Email address: [info@fz-juelich.de](mailto:info@fz-juelich.de)
 
-### Copyright
+### Copyright:
 
-Copyright and all other rights concerning the website of Forschungszentrum Jülich are held by Forschungszentrum Jülich GmbH. Use of the information contained on the website, including excerpts, is permitted for educational, scientific or private purposes, provided the source is quoted (unless otherwise expressly stated on the respective website). Use for commercial purposes is not permitted unless explicit permission has been granted by Forschungszentrum Jülich.
+Copyright and all other rights concerning the website of ABCD-J are held by Forschungszentrum Jülich GmbH. Use of the information contained on the website, including excerpts, is permitted for educational, scientific or private purposes, provided the source is quoted (unless otherwise expressly stated on the respective website). Use for commercial purposes is not permitted unless explicit permission has been granted by Forschungszentrum Jülich.
 
 For further information, contact: [Corporate Communications](https://www.fz-juelich.de/en/press/contact-corporate-communications)
 
-### Disclaimer
+### Disclaimer:
 
-### Contents of the Website of ABCD-J
+#### Contents of the ABCD-J Website
 
 This website has been compiled with due diligence. However, Forschungszentrum Jülich neither guarantees nor accepts liability for the information being continual up-to-date, complete or accurate.
 
-### Links to External Websites
+#### Links to External Websites
 
 This website may contain links to external third-party websites. These links to third party sites do not imply approval of their contents. Responsibility for the content of these websites lies solely with the respective provider or operator of the site. Illegal contents were not recognizable at the time of setting the link. We do not accept any liability for the continual accessibility or up-todateness, completeness or correctness of the contents of such websites. If we become aware of any infringements of the law, we will remove such links immediately.
 
-### Data protection
+#### Data Collection
 
-Every time a user accesses a website hosted by Forschungszentrum Jülich GmbH and every time a file is requested, data connected to these processes are stored in a log. These data do not contain personal information; we are unable to trace which user accessed what information. Personal user profiles therefore cannot be created. The data that is saved will be used for statistical purposes only. This information will not be disclosed to third parties.
-
-[Further information on data protection](https://www.fz-juelich.de/en/privacy-policy)
+The ABCD-J website is hosted by [GitHub Pages](https://pages.github.com/?(null)). Every time a user accesses a website hosted GitHub Pages, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).

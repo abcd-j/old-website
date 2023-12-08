@@ -65,3 +65,9 @@
             und verhaltenswissenschaftlichen Forschern zu ermöglichen, ihre eigenen digitalen Phänotypisierungsdaten von 
             spezifischen Studienpopulationen zu sammeln. Im Rahmen des ABCD-J wird JTrack in klinische Studien bei allen 
             Partnern integriert, um eine harmonisierte und standardisierte Bewertung verschiedener klinischer Kohorten ermöglicht."
+
+- id: about_julearn
+  translation: "[Pending translation] Machine learning workflows, including model assessment and comparison, are integrated 
+            into a library known as 'julearn'. This library enables users to effortlessly design and test machine learning 
+            models directly from pandas DataFrames, while maintaining the flexibility of utilizing scikit-learn's data processing 
+            tools and models."   
