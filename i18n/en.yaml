@@ -35,6 +35,9 @@
 - id: abcdj_project
   translation: "The ABCD-J Project"
 
+- id: impressum
+  translation: "Legal Notice"
+
 - id: about_abcdj
   translation: "The ABCD-J research community project is a collaboration between five research
             institutions in the German state of North Rhine-Westphalia: University Clinic

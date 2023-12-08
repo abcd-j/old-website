@@ -4,7 +4,7 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     /* background-color: var(--abcdj-blue); */
-    background-image: linear-gradient(to bottom right, var(--abcdj-blue), rgb(58, 17, 194));
+    background-image: linear-gradient(to right, var(--abcdj-blue), rgb(29, 97, 191)); /*  rgb(67, 29, 191) */
     /* padding: var(--gap); */
 }
 
@@ -72,6 +72,7 @@ pre:hover .copy-code {
 .post-single {
     margin: 0 0;
     padding: 8em 16em;
+
 }
 
 .post-content p {
@@ -80,12 +81,21 @@ pre:hover .copy-code {
     text-align: justify;
 }
 
-.post-single h1 {
+.post-single h1, h2, h3, h4, li {
 color: white;
+}
+
+.post-single h2 {
+    text-align: left;
+
 }
 
 .post-meta {
 color: white;
+}
+
+.post-content {
+    margin-top: 2em;
 }
 
 .post-content a {

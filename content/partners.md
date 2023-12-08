@@ -10,22 +10,26 @@ RWTH Aachen, University Clinic Bonn, University Clinic Köln, University Clinic
 Düsseldorf and Research Centre Jülich.
 
 
-## University Clinic RWTH Aachen
+<div class="partner-div">
 
-![](../pics/rwth_logo.svg)
+## [University Clinic RWTH Aachen](https://www.ukaachen.de/)
 
-## University Clinic Bonn
+{{< figure src="../../pics/rwth_logo.svg" class="partner-figure" link="https://www.ukaachen.de/">}}
 
-![](../pics/bonn_logo.svg)
+## [University Clinic Bonn](https://www.ukbonn.de/)
 
-## University Clinic Cologne
+{{< figure src="../../pics/bonn_logo.svg" class="partner-figure" link="https://www.ukbonn.de/">}}
 
-![](../pics/cologne_logo.svg)
+## [University Clinic Cologne](https://www.uk-koeln.de/)
 
-## University Clinic Düsseldorf
+{{< figure src="../../pics/cologne_logo.svg" class="partner-figure" link="https://www.uk-koeln.de/">}}
 
-![](../pics/HHU_Logo.svg)
+## [University Clinic Düsseldorf](https://www.uniklinik-duesseldorf.de/)
 
-## Research Centre Jülich
+{{< figure src="../../pics/HHU_Logo.svg" class="partner-figure" link="https://www.uniklinik-duesseldorf.de/">}}
 
-![](../pics/fzj_logo.svg)
+## [Research Centre Jülich](https://www.fz-juelich.de/)
+
+{{< figure src="../../pics/fzj_logo.svg" class="partner-figure" link="https://www.fz-juelich.de/">}}
+
+</div>

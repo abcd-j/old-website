@@ -40,3 +40,20 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400;
 }
+
+.partner-div {
+  text-align: left !important;
+}
+
+.partner-figure {
+  margin:auto;
+  background-color: white;
+  padding: 0.5em;
+  width: 300px;
+  border-radius: 30px;
+  text-align: left;
+}
+
+.partner-figure img {
+  width: 100%;
+}
