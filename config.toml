@@ -16,7 +16,7 @@ theme = "PaperMod"
   disableThemeToggle = true
   [params.abcdjMode]
     enabled = true
-    title = "Accessing Behavior for Clinical Data and Joint usage"
+    title = "Accessing Behavior for Clinical Data and Joint Usage"
     subtitle = ""
     imageUrl = "pics/abcdj_logo.svg"
     imageTitle = "abcdj_logo"
