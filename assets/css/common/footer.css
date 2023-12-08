@@ -11,6 +11,7 @@
     text-align: center;
     line-height: 24px;
     background-color: var(--abcdj-blue);
+    color: white;
 }
 
 .footer span {
@@ -23,12 +24,13 @@
 }
 
 .footer a {
-    color: inherit;
+    color: white;
     border-bottom: 1px solid var(--secondary);
 }
 
 .footer a:hover {
     border-bottom: 1px solid var(--primary);
+    color:rgb(127, 221, 255) !important;
 }
 
 .top-link {
