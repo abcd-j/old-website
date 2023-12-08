@@ -64,3 +64,9 @@
             source collaboration tool to enable clinical and behavioral researchers to collect their own digital phenotyping 
             data from specific study populations. In the framework of the ABCD-J, JTrack will be integrated into clinical 
             studies across all partners allowing for a harmonized and standardized evaluation of different clinical cohorts."
+
+- id: about_julearn
+  translation: "Machine learning workflows, including model assessment and comparison, are integrated 
+            into a library known as 'julearn'. This library enables users to effortlessly design and test machine learning 
+            models directly from pandas DataFrames, while maintaining the flexibility of utilizing scikit-learn's data processing 
+            tools and models."      
