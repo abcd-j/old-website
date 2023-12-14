@@ -59,9 +59,7 @@
   weit verbreiteter Dateninfrastruktur zur Verfügung."
 
 - id: about_datacatalog
-  translation: "Der DataLad Catalog ist ein frei verfügbares open source
-  Softwarewerkzeug, um strukturierte Metadaten in nutzerfreundliche,
-  browser-basierte Datenkataloge zu verwandeln."
+  translation: "Der Datenkatalog stellt eine Übersicht über einer Vielzahl erhobener Datensätze dar, die in Partnerinstitutionen erhoben und geteilt wurden."
 
 - id: about_jtrack
   translation: "Die JTrack-Plattform besteht aus den beiden JTrack-Anwendungen EMA und Social sowie einer Serverstruktur, 
