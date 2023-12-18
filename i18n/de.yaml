@@ -35,6 +35,12 @@
 - id: abcdj_project
   translation: "Das ABCD-J Projekt"
 
+- id: abcdj_platform
+  translation: "[Pending translation] ABCD-J Platform"
+
+- id: data_catalog
+  translation: "ABCD-J Datenkatalog"
+
 - id: impressum
   translation: "Impressum"
 
@@ -49,11 +55,14 @@
             will accelerate research through homogenization of workflows and processes, with
             particular emphasis on digital biomarker development."
 
+- id: about_platform
+  translation: "[Pending translation] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque augue nunc, faucibus in est in, cursus vulputate lorem. Aenean at pulvinar urna. Vivamus dictum enim et ipsum auctor posuere. Praesent tincidunt neque augue, eget euismod neque rutrum vel. Nulla tempus eget felis ac facilisis. In congue, erat cursus tempor suscipit, ligula lacus ultrices nunc, a varius turpis leo sed arcu. Cras in mauris pulvinar, mollis nulla nec, sodales metus. Nullam eget enim at leo ultrices tempor."
+
 - id: about_datalad
   translation: "[Pending translation] DataLad is a free and open source distributed data management system that keeps track of your data, creates
             structure, ensures reproducibility, supports collaboration, and integrates with widely used data infrastructure."
 
-- id: about_datacatalog
+- id: about_data_catalog
   translation: "[Pending translation] DataLad Catalog is a free and open source command line tool with a Python API that
             allows you to turn structured metadata into a user-friendly, browser-based data catalog."
 
