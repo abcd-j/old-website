@@ -4,7 +4,7 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     /* background-color: var(--abcdj-blue); */
-    background-image: linear-gradient(to right, var(--abcdj-blue), rgb(29, 97, 191)); /*  rgb(67, 29, 191) */
+    background-image: linear-gradient(to right, var(--abcdj-blue), rgb(125, 155, 198)); /* rgb(29,97,191); rgb(125, 155, 198) */
     /* padding: var(--gap); */
 }
 
