@@ -41,5 +41,5 @@ defaultContentLanguageInSubdir = true
     weight = 1
   [languages.de]
     title = "ABCD-J"
-    languageName = "German"
+    languageName = "Deutsch"
     weight = 2
