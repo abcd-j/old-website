@@ -56,7 +56,11 @@
             particular emphasis on digital biomarker development."
 
 - id: about_platform
-  translation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque augue nunc, faucibus in est in, cursus vulputate lorem. Aenean at pulvinar urna. Vivamus dictum enim et ipsum auctor posuere. Praesent tincidunt neque augue, eget euismod neque rutrum vel. Nulla tempus eget felis ac facilisis. In congue, erat cursus tempor suscipit, ligula lacus ultrices nunc, a varius turpis leo sed arcu. Cras in mauris pulvinar, mollis nulla nec, sodales metus. Nullam eget enim at leo ultrices tempor."
+  translation: "The ABCD-J platform provides clinical researchers in the field of neurology and psychiatry
+            with a digital infrastructure that allows 1) the collection of data using mobile health technologies, 
+            2) the harmonization and management of data according to FAIR (Findable, Accessible, Interoperable, 
+            Reusable) principles, and 3) the automated analysis of data using machine learning algorithms with 
+            the goal of developing digital biomarkers."
 
 - id: about_datalad
   translation: "DataLad is a free and open source distributed data management system that keeps track of data, creates
@@ -67,15 +71,19 @@
             by partner institutions in the ABCD-J community."
 
 - id: about_jtrack
-  translation: "The JTrack platform consists of the two JTrack applications EMA and social and a server structure to enable 
-            central data collection. The platform was developed to gather study specific digital phenotyping information 
+  translation: "The JTrack platform consists of the two JTrack applications EMA and Social, and a server structure to enable 
+            central data collection. The platform was developed to gather and study specific digital phenotyping information 
             about smartphone usage, sensor data and participants' daily lives. The JTrack platform was released as an open 
             source collaboration tool to enable clinical and behavioral researchers to collect their own digital phenotyping 
-            data from specific study populations. In the framework of the ABCD-J, JTrack will be integrated into clinical 
-            studies across all partners allowing for a harmonized and standardized evaluation of different clinical cohorts."
+            data from specific study populations. In the framework of the ABCD-J project, JTrack will be integrated into clinical 
+            studies across all partner sites, allowing for a harmonized and standardized evaluation of different clinical cohorts."
 
 - id: about_julearn
   translation: "Machine learning workflows, including model assessment and comparison, are integrated 
             into a library known as 'julearn'. This library enables users to effortlessly design and test machine learning 
             models directly from pandas DataFrames, while maintaining the flexibility of utilizing scikit-learn's data processing 
-            tools and models."      
+            tools and models."
+
+- id: funding_text
+  translation: "The ABCD-J project is funded by the MKW-NRW: Ministerium für Kultur und Wissenschaft des Landes
+            Nordrhein-Westfalen under the Kooperationsplattformen 2022 program, grant number: KP22-106A." 

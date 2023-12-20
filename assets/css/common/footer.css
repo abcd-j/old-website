@@ -61,3 +61,63 @@
 #theme-toggle:focus {
     outline: 0;
 }
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.funding {
+    /* margin: auto; */
+    font-style: italic;
+    text-align: left;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    font-size: 10px;
+}
+
+.funding img {
+    width: 42px;
+}
+
+.footer-links {
+    margin: auto;
+    margin-top: 1em;
+    flex: 1 1 50%;
+}
+
+
+@media screen and (min-width: 480px) {
+    .funding p {
+        width: 80%
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .funding p {
+        width: 60%
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .footer {
+        flex-wrap: nowrap;
+    }
+    
+    .funding {
+        flex: 1 1 50%
+     }
+     .footer-links {
+        flex: 1 1 50%
+     }
+
+    .funding p {
+        width: 70%
+    }
+}
