@@ -5,12 +5,6 @@ theme = "PaperMod"
 
 # see https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/#sample-configyml
 
-[menu]
-  [[menu.main]]
-    name = "Data"
-    url = "https://data.abcd-j.de/"
-    weight = 2
-
 [params]
   defaultTheme = "light"
   disableThemeToggle = true
@@ -39,7 +33,18 @@ defaultContentLanguageInSubdir = true
     title = "ABCD-J"
     languageName = "English"
     weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Data"
+      url = "https://data.abcd-j.de/"
+      weight = 2
+
   [languages.de]
     title = "ABCD-J"
     languageName = "Deutsch"
     weight = 2
+
+    [[languages.de.menu.main]]
+      name = "Daten"
+      url = "https://data.abcd-j.de/"
+      weight = 2
