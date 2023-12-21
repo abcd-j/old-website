@@ -23,7 +23,11 @@
         </span>
         &nbsp;&nbsp;
         <span>
+            {{- if eq .Lang "en"}}
             <a href="/impressum">{{ i18n "impressum" }}</a>
+            {{- else }}
+            <a href="/de/impressum">{{ i18n "impressum" }}</a>
+            {{- end -}}
         </span>
     </div>
 </footer>
