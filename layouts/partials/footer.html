@@ -1,20 +1,35 @@
 {{- if not (.Param "hideFooter") }}
+
 <footer class="footer">
-    {{- if site.Copyright }}
-    <span>{{ site.Copyright | markdownify }}</span>
-    {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
-    {{- end }}
-    &nbsp;&nbsp;
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-    &nbsp;&nbsp;
-    <span>
-        <a href="/impressum">{{ i18n "impressum" }}</a>
-    </span>
+
+    <div class="funding">
+        <img src="../../pics/nrw_logo.svg" alt="">
+        <p>
+            {{i18n "funding_text"}}
+        </p>
+    </div>
+
+    <div class="footer-links">
+        {{- if site.Copyright }}
+        <span>{{ site.Copyright | markdownify }}</span>
+        {{- else }}
+        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        {{- end }}
+        &nbsp;&nbsp;
+        <span>
+            Powered by
+            <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+            <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        </span>
+        &nbsp;&nbsp;
+        <span>
+            {{- if eq .Lang "en"}}
+            <a href="/impressum">{{ i18n "impressum" }}</a>
+            {{- else }}
+            <a href="/de/impressum">{{ i18n "impressum" }}</a>
+            {{- end -}}
+        </span>
+    </div>
 </footer>
 {{- end }}
 

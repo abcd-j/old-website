@@ -4,7 +4,7 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     /* background-color: var(--abcdj-blue); */
-    background-image: linear-gradient(to right, var(--abcdj-blue), rgb(29, 97, 191)); /*  rgb(67, 29, 191) */
+    background-image: linear-gradient(to right, var(--abcdj-blue), rgb(125, 155, 198)); /* rgb(29,97,191); rgb(125, 155, 198) */
     /* padding: var(--gap); */
 }
 
@@ -67,41 +67,4 @@ pre {
 div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
-}
-
-.post-single {
-    margin: 0 0;
-    padding: 8em 16em;
-
-}
-
-.post-content p {
-    color: white;
-    width: 100%;    
-    text-align: justify;
-}
-
-.post-single h1, h2, h3, h4, li {
-color: white;
-}
-
-.post-single h2 {
-    text-align: left;
-
-}
-
-.post-meta {
-color: white;
-}
-
-.post-content {
-    margin-top: 2em;
-}
-
-.post-content a {
-    color: white;
-}
-
-.post-header {
-    margin-top: 0;
 }

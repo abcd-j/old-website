@@ -35,6 +35,12 @@
 - id: abcdj_project
   translation: "Das ABCD-J Projekt"
 
+- id: abcdj_platform
+  translation: "ABCD-J Plattform"
+
+- id: data_catalog
+  translation: "ABCD-J Datenkatalog"
+
 - id: impressum
   translation: "Impressum"
 
@@ -51,6 +57,14 @@
   durch die Homogenisierung von Abläufen und Prozessen, spezifisch im Bereich
   der Biomarkerentwicklung."
 
+- id: about_platform
+  translation: "Die ABCD-J Plattform bietet klinisch Forschenden der Bereiche 
+            Neurologie und Psychiatrie eine digitale Infrastruktur, die 1) die Sammlung 
+            von Daten mit Hilfe mobiler Gesundheitstechnologien, 2) die Harmonisierung und 
+            Verwaltung von Daten gemäß den FAIR-Prinzipien (Findable, Accessible, Interoperable, 
+            Reusable) und 3) die automatisierte Analyse von Daten mit Hilfe von Algorithmen des 
+            maschinellen Lernens mit dem Ziel der Entwicklung digitaler Biomarker ermöglicht."
+
 - id: about_datalad
   translation: "DataLad ist ein frei verfügbares open source Softwarewerkzeug
   für dezentrales Forschungsdatenmanagement. Es erlaubt die Versionierung von
@@ -58,11 +72,11 @@
   Reproduzierbarkeit, unterstützt Kollaboration, und stellt Integrationen zu
   weit verbreiteter Dateninfrastruktur zur Verfügung."
 
-- id: about_datacatalog
+- id: about_data_catalog
   translation: "Der Datenkatalog stellt eine Übersicht über einer Vielzahl erhobener Datensätze dar, die in Partnerinstitutionen erhoben und geteilt wurden."
 
 - id: about_jtrack
-  translation: "Die JTrack-Plattform besteht aus den beiden JTrack-Anwendungen EMA und Social sowie einer Serverstruktur, 
+  translation: "Die JTrack-Plattform besteht aus den beiden JTrack-Anwendungen EMA und Social, sowie einer Serverstruktur, 
             um eine zentrale Datensammlung zu ermöglichen. Die Plattform wurde entwickelt, um spezifische digitale 
             Phänotypisierungsinformationen über die Smartphone-Nutzung, Sensordaten und das tägliche Leben der Teilnehmer 
             zu sammeln. Die JTrack-Plattform wurde als Open-Source-Kollaborationswerkzeug veröffentlicht, um klinischen 
@@ -77,3 +91,7 @@
   mühelos selbst komplexe Modelle des maschinellen Lernens erstellen und
   testen, und gleichzeitig die volle Flexibilität der zugrundeliegenden
   scikit-learn Bibliothek ausnutzen."
+
+- id: funding_text
+  translation: "Das ABCD-J-Projekt wird gefördert vom MKW-NRW: Ministerium für Kultur und Wissenschaft des Landes
+            Nordrhein-Westfalen im Rahmen des Programms Kooperationsplattformen 2022, Förderkennzeichen: KP22-106A."
