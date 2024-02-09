@@ -39,6 +39,11 @@ defaultContentLanguageInSubdir = true
       url = "https://data.abcd-j.de/"
       weight = 2
 
+    [[languages.en.menu.main]]
+      name = "Contribute"
+      url = "https://rdm.abcd-j.de/"
+      weight = 3
+
   [languages.de]
     title = "ABCD-J"
     languageName = "Deutsch"
@@ -48,3 +53,8 @@ defaultContentLanguageInSubdir = true
       name = "Daten"
       url = "https://data.abcd-j.de/"
       weight = 2
+
+    [[languages.de.menu.main]]
+      name = "Beitragen"
+      url = "https://rdm.abcd-j.de/"
+      weight = 3
