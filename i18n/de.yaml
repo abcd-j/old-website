@@ -73,7 +73,8 @@
   weit verbreiteter Dateninfrastruktur zur Verfügung."
 
 - id: about_data_catalog
-  translation: "Der Datenkatalog stellt eine Übersicht über einer Vielzahl erhobener Datensätze dar, die in Partnerinstitutionen erhoben und geteilt wurden."
+  translation: "Der Datenkatalog stellt eine Übersicht über einer Vielzahl erhobener Datensätze dar, 
+            die in Partnerinstitutionen erhoben und geteilt wurden. Wussten Sie, dass Sie Ihre Daten mit dem Katalog verlinken können, ohne sie hochladen zu müssen?"
 
 - id: about_jtrack
   translation: "Die JTrack-Plattform besteht aus den beiden JTrack-Anwendungen EMA und Social, sowie einer Serverstruktur, 
@@ -95,3 +96,6 @@
 - id: funding_text
   translation: "Das ABCD-J-Projekt wird gefördert vom MKW-NRW: Ministerium für Kultur und Wissenschaft des Landes
             Nordrhein-Westfalen im Rahmen des Programms Kooperationsplattformen 2022, Förderkennzeichen: KP22-106A."
+
+- id: data_button
+  translation: "Verlinken Sie Ihre Daten!"

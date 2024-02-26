@@ -68,7 +68,7 @@
 
 - id: about_data_catalog
   translation: "The data catalog showcases a wide variety of datasets collected and shared
-            by partner institutions in the ABCD-J community."
+            by partner institutions in the ABCD-J community. Did you know that you can link your data to the catalog without having to upload it? "
 
 - id: about_jtrack
   translation: "The JTrack platform consists of the two JTrack applications EMA and Social, and a server structure to enable 
@@ -87,3 +87,6 @@
 - id: funding_text
   translation: "The ABCD-J project is funded by the MKW-NRW: Ministerium für Kultur und Wissenschaft des Landes
             Nordrhein-Westfalen under the Kooperationsplattformen 2022 program, grant number: KP22-106A." 
+
+- id: data_button
+  translation: "Link your data!"
