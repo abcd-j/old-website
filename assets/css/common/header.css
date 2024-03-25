@@ -3,7 +3,6 @@
     background-color: var(--abcdj-blue);
 }
 
-
 .nav {
     display: flex;
     flex-wrap: wrap;
@@ -19,8 +18,7 @@
     color: white;
 }
 
-.logo,
-#menu {
+.logo {
     display: flex;
     margin: auto var(--gap);
 }
@@ -57,25 +55,100 @@ body:not(.dark) #sun {
     display: none;
 }
 
-#menu {
-    list-style: none;
-    word-break: keep-all;
-    overflow-x: auto;
-    white-space: nowrap;
+input[type=checkbox] {
+    display: none;
+}
+input[type=checkbox] + label:before {
+    font-family: "Font Awesome 6 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    speak: none;
+    content: '\f0c9';
+    color: white;
+    display: inline-block;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(-1em, 0.75em);
+    z-index: 1000;
 }
 
-#menu li + li {
-    margin-inline-start: var(--gap);
+input[type=checkbox]:checked ~ nav #menu li a {
+    display: unset;
 }
 
-#menu a {
-    font-size: 16px;
+input[type=checkbox]:checked ~ nav #menu {
+    height: 9em;
 }
 
-#menu .active {
-    font-weight: 500;
-    border-bottom: 2px solid currentColor;
+nav #menu {
+    margin-left: auto;
+    padding-right: 1em;
+    flex-basis: 100%;
 }
+
+nav #menu li {
+    display: block;
+    text-align: right;
+    line-height: 2em;
+}
+
+nav #menu li a {
+    box-shadow: none;
+    color: white;
+    padding: 2em inherit;
+    text-decoration: none;
+    transition: display 0.3s;
+    display: none;
+}
+
+input[type=checkbox]:hover + label:before {
+    color: rgb(127, 221, 255);
+}
+
+
+@media screen and (min-width: 480px) {
+
+    nav #menu {
+        display: flex;
+        margin: auto var(--gap);
+        flex-basis: content;
+    }
+
+    nav #menu li a {
+        display: unset;
+     }
+
+
+    #menu {
+        list-style: none;
+        word-break: keep-all;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+    
+    #menu li + li {
+        margin-inline-start: var(--gap);
+    }
+    
+    #menu a {
+        font-size: 16px;
+    }
+    
+    #menu .active {
+        font-weight: 500;
+        border-bottom: 2px solid currentColor;
+    }
+
+    input[type=checkbox] + label:before {
+        display:none
+    }
+
+  
+}
+
 
 .lang-switch li,
 .lang-switch ul,
