@@ -90,3 +90,15 @@
 
 - id: data_button
   translation: "Link your data!"
+
+- id: icon_catalog
+  translation: "Catalog"
+
+- id: icon_support
+  translation: "Support"
+
+- id: icon_docs
+  translation: "Docs"
+
+- id: icon_handbook
+  translation: "Handbook"

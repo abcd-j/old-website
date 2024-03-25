@@ -99,3 +99,15 @@
 
 - id: data_button
   translation: "Verlinken Sie Ihre Daten!"
+
+- id: icon_catalog
+  translation: "Datenkatalog"
+
+- id: icon_support
+  translation: "Unterstützung"
+
+- id: icon_docs
+  translation: "Dokumentation"
+
+- id: icon_handbook
+  translation: "Handbuch"
