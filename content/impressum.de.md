@@ -54,13 +54,13 @@ Ansprechpartner: [Geschäftsbereich Unternehmenskommunikation](https://www.fz-ju
 
 ### Haftungsausschluss:
 
-#### Inhalt der ABCD-J Web-Seiten
+#### Inhalt der ABCD-J Webseite
 
-Wir haben die Internet-Seiten des Forschungszentrums sorgfältig zusammengestellt. Allerdings übernehmen wir keine Gewähr oder Haftung für die fortwährende Aktualität, Vollständigkeit und Richtigkeit der angebotenen Informationen.
+Die Inhalte der Webseite des ABCD-J Projektes wurden sorgfältig zusammengestellt. Allerdings übernehmen wir keine Gewähr oder Haftung für die fortwährende Aktualität, Vollständigkeit und Richtigkeit der angebotenen Informationen.
 
 #### Links auf externe Web-Seiten
 
-Die Internet-Seiten des Forschungszentrums enthalten Links auf die Web-Seiten Dritter. Diese Links auf die Web-Seiten Dritter stellen keine Zustimmung zu deren Inhalt dar. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Wir übernehmen keine Gewähr für die fortwährende Aktualität, Richtigkeit und Vollständigkeit der verlinkten Inhalte, da diese Inhalte außerhalb unseres Verantwortungsbereichs liegen und wir auf die zukünftige Gestaltung keinen Einfluss haben. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Die Webseiten des ABCD-J Projektes enthalten Links auf die Webseiten Dritter. Diese Links auf die Webseiten Dritter stellen keine Zustimmung zu deren Inhalt dar. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Wir übernehmen keine Gewähr für die fortwährende Aktualität, Richtigkeit und Vollständigkeit der verlinkten Inhalte, da diese Inhalte außerhalb unseres Verantwortungsbereichs liegen und wir auf die zukünftige Gestaltung keinen Einfluss haben. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
 #### Datenerhebung
 
