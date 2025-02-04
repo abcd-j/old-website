@@ -1,4 +1,11 @@
-# ABCD-J website sources
+# Old ABCD-J website sources
+
+------------------------------------------------------------------------------
+
+### ! This repository contains the sources of the _old_ ABCD-J website. !
+The sources have been moved to https://hub.datalad.org/ABCD-J/www.
+
+------------------------------------------------------------------------------
 
 - The website is built with [hugo](https://gohugo.io/) and uses the [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
 - Theme is attached as a submodule (supports dark & light mode)
