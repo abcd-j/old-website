@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------
 
 ### ! This repository contains the sources of the _old_ ABCD-J website. !
-The sources have been moved to https://hub.datalad.org/ABCD-J/www.
+The sources have been moved to https://hub.psychoinformatics.de/ABCD-J/www.
 
 ------------------------------------------------------------------------------
 
